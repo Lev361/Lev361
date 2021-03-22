@@ -3,8 +3,8 @@
 - 🌱 Tenho interesse em aprender Inteligência Artificial 🤖
 - 💁🏽‍♂️ Desenvolvedor web 👨🏽‍💻
 
-           "A PERSISTÊNCIA É O CAMINHO PARA A PERFEIÇÃO."
-                -Levi Maycon
+  "A PERSISTÊNCIA É O CAMINHO PARA A PERFEIÇÃO."
+                         
 
 <!---
 
