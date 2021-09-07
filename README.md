@@ -8,8 +8,8 @@ Meu nome é Levi. Eu sou do Brasil, Recife. Atualmente, foco no software develop
 Desenvolvimento web é minha área preferida porque acho que é a maior parte da tecnologia que torna a TI mais útil e amigável pelo fato de contribuir com a comunidade de programas de compartilhamento de conhecimento. Um exemplo disso é a plataforma Github. Aqui é o lugar onde coloco meu progresso nestes estudos.
 </p>
 
-[! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=lev361&layout=compact)] (https://github.com/lev361/ github-readme-stats)
-[! [Estatísticas do Levi no GitHub] (api/pin?username=lev361&repo=github-readme-stats)] (https://github.com/JG-OLIVEIRA/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lev361&layout=compact)](https://github.com/lev361/github-readme-stats)
+
 
 <p align = "left">
 Entre em contato nos links abaixo:
