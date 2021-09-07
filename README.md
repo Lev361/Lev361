@@ -1,11 +1,24 @@
-- 👋 Oi, Me chamo Levi, tenho 17 anos.
-- 👀 Sou estudante da Linguagem Python e Javascript
-- 🌱 Tenho interesse em aprender Inteligência Artificial 🤖
-- 💁🏽‍♂️ Desenvolvedor FRONT-END 👨🏽‍💻
+### Olá 👋
 
-  "A PERSISTÊNCIA É O CAMINHO PARA A PERFEIÇÃO."
-                         
+<p align = "left">
+Meu nome é Levi. Eu sou do Brasil, Recife. Atualmente, foco no software development.
+</p>
 
-<!---
+<p align = "left">
+Desenvolvimento web é minha área preferida porque acho que é a maior parte da tecnologia que torna a TI mais útil e amigável pelo fato de contribuir com a comunidade de programas de compartilhamento de conhecimento. Um exemplo disso é a plataforma Github. Aqui é o lugar onde coloco meu progresso nestes estudos.
+</p>
 
---->
+[! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=lev361&layout=compact)] (https://github.com/lev361/ github-readme-stats)
+[! [Estatísticas do Levi no GitHub] (api/pin?username=lev361&repo=github-readme-stats)] (https://github.com/JG-OLIVEIRA/github-readme-stats) 
+
+<p align = "left">
+Entre em contato nos links abaixo:
+</p>
+
+<p align = "left">
+  <a href="https://www.linkedin.com/mwlite/in/levi-maycon-298687216" alt="Linkedin">
+  <img src = "https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/" /> </ a >
+  
+  <a href="mailto:levimaycom361@gmail.com" alt="Gmail">
+  <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+</p> 
