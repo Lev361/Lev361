@@ -9,6 +9,7 @@ Desenvolvimento web é minha área preferida porque acho que é a maior parte da
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lev361&layout=compact)](https://github.com/lev361/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lev361&show_icons=true&theme=dracula)
 
 
 <p align = "left">
