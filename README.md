@@ -1,7 +1,7 @@
 ### <h1>Olá 👋</h1>
 
 <p align = "left">
-Meu nome é <b>Levi</b>. Eu sou do <b>Brasil</b>, Recife. Atualmente, foco na área do  software development.
+Meu nome é <b>Levi</b>,Eu sou do <b>Brasil</b>, Recife. Atualmente, foco na área do  software development.
 </p>
 
 <p align = "left">
