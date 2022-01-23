@@ -1,11 +1,11 @@
-### <h1>Olá 👋</h1>
+### <h1>Welcome 😁</h1>
 
-<p align = "left">
-Meu nome é <b>Levi</b>,Eu sou do <b>Brasil</b>, Recife. Atualmente, foco na área do  software development.
+<p align = "center">
+Me chamo Levi, tenho 18 anos.
 </p>
 
 <p align = "left">
-Desenvolvimento web é minha área preferida porque acho que é a maior parte da tecnologia que torna a TI mais útil e amigável pelo fato de contribuir com a comunidade de programas de compartilhamento de conhecimento. Um exemplo disso é a plataforma Github. Aqui é o lugar onde coloco meu progresso nestes estudos.
+ 
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lev361&layout=compact)](https://github.com/lev361/github-readme-stats)
