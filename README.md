@@ -1,12 +1,4 @@
-### <h1>Welcome 😁</h1>
 
-<p align = "center">
-Me chamo Levi, tenho 18 anos.
-</p>
-
-<p align = "left">
- 
-</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lev361&layout=compact)](https://github.com/lev361/github-readme-stats)
 
