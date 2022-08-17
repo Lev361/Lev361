@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/a4/b2/cf/a4b2cf52d8ed2e49e10c7eecca6777a3.gif">
+<img src="[https://i.pinimg.com/originals/a4/b2/cf/a4b2cf52d8ed2e49e10c7eecca6777a3.gif](https://i.pinimg.com/originals/e3/57/7c/e3577c0dbda0e1d853f4c7ac50aa2915.gif)">
 
 ### Hi 👋
 I'm just a kid from a humble family trying to make it in life.
