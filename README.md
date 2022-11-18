@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/e3/57/7c/e3577c0dbda0e1d853f4c7ac50aa2915.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Faxilleasiv%2Fvscode-javascript-repl-docs&psig=AOvVaw0oy-pLwXDXWFDUBIhCWaQc&ust=1668859928793000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjbnu3Zt_sCFQAAAAAdAAAAABAE">
+<img src="https://raw.githubusercontent.com/axilleasiv/vscode-javascript-repl-docs/master/vscode-javascript-repl.gif">
 
 ### Hi 👋
 I'm just a kid from a humble family trying to make it in life.
